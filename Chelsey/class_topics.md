@@ -32,7 +32,7 @@ Module 7: Exploring Data through Visualizations
 Module 8: Making Predictions with data
  * Predictive modeling
  * Plotting time series data
- * using prophet for time series forecasting
+ * using prophet for time series forecasting 
 
 
 
