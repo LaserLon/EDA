@@ -1,14 +1,14 @@
-Resource,Topic,Link
-Climate.gov,Temperatures,https://www.climate.gov/
-Data.gov,Climate,https://catalog.data.gov/dataset/?groups=climate5434
-"""Awesome Public datasets""",Climate,https://github.com/awesomedata/awesome-public-datasets?tab=readme-ov-file#climate-weather
-Food & Agriculture Organization of the United Nations,Temperatures,https://www.fao.org/faostat/en/#data/ET
-IMF - Climate Change Dashboard,CO2 Emissions,https://climatedata.imf.org/pages/climatechange-data#cc2
-IMF - Climate Change Dashboard,Temperatures,https://climatedata.imf.org/pages/climatechange-data#cc1
-Kaggle,Temperatures,https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data
-Met Office Hadley Centre,Temperatures,https://www.metoffice.gov.uk/hadobs/hadcrut4/
-NASA,Temperatures,https://data.giss.nasa.gov/gistemp/
-Berkeley Earth,Temperatures,https://berkeleyearth.org/data/
-Kaggle,CO2 Emissions,https://www.kaggle.com/datasets/unitednations/international-greenhouse-gas-emissions
-Our World in Data,CO2 Emissions,https://ourworldindata.org/explorers/co2
-World Bank,Climate,https://datacatalog.worldbank.org/search/dataset/0040205
+Resource,Topic,Link,Utilized,Licensing
+Climate.gov,Temperatures,https://www.climate.gov/,,
+Data.gov,Climate,https://catalog.data.gov/dataset/?groups=climate5434,,
+"""Awesome Public datasets""",Climate,https://github.com/awesomedata/awesome-public-datasets?tab=readme-ov-file#climate-weather,,
+Food & Agriculture Organization of the United Nations,Temperatures,https://www.fao.org/faostat/en/#data/ET,,
+IMF - Climate Change Dashboard,CO2 Emissions,https://climatedata.imf.org/pages/climatechange-data#cc2,,
+IMF - Climate Change Dashboard,Temperatures,https://climatedata.imf.org/pages/climatechange-data#cc1,,
+Kaggle,Temperatures,https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data,Yes,
+Met Office Hadley Centre,Temperatures,https://www.metoffice.gov.uk/hadobs/hadcrut4/,,
+NASA,Temperatures,https://data.giss.nasa.gov/gistemp/,,
+Berkeley Earth,Temperatures,https://berkeleyearth.org/data/,,
+Kaggle,CO2 Emissions,https://www.kaggle.com/datasets/unitednations/international-greenhouse-gas-emissions,Yes,
+Our World in Data,CO2 Emissions,https://ourworldindata.org/explorers/co2,,
+World Bank,Climate,https://datacatalog.worldbank.org/search/dataset/0040205,,
