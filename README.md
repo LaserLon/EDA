@@ -20,7 +20,7 @@ The data used in this analysis were obtained or review from the following source
 
 ## Goals and Objectives
 
-The primary goal of this project is to determine whether there is a significant correlation between the increase in greenhouse gas emissions and global temperature changes. Specifically, we aim to:
+The primary goal of this project is to determine whether there is a relationship between the increase in greenhouse gas emissions without land use or forestry and global temperature changes. Specifically, we aim to:
 
 1. Explore and clean the datasets.
 2. Merge datasets to create a comprehensive dataset for analysis.
@@ -45,9 +45,10 @@ The primary goal of this project is to determine whether there is a significant 
 ## Findings
 
 From the analysis, we observed that:
-- There is a noticeable trend of increasing greenhouse gas emissions over the years.
+- There is a noticeable trend of increasing greenhouse gas emissions over the years, but the emissions we chose to analyze was the greenhouse gas emissions without land use and forestry which is decreasing.
 - Temperature changes vary significantly across different regions and months.
-- Preliminary analysis suggests a correlation between increased emissions and temperature changes.
+- Preliminary analysis suggests a weak negative correlation between greenhouse gas emissions and temperature changes globally, mostly due to the fact that the category of emssions we chose to evaluate is on the decline while greenhouse gas emissions more broadly are increasing globally.
+- This finding is interesting as it highlights the reality that the picture can drastically change depending on the data that is being analyzed.
 
 ## Conclusion
 
@@ -69,6 +70,6 @@ The analysis provides insights into the potential relationship between greenhous
 
 
 ## Project Team
-- Chelsey Hay
 - Lonnie Aldredge
 - Giselle Gomez
+- Chelsey Hay
