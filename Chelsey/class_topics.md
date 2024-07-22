@@ -15,7 +15,7 @@ Module 5: Preparing Data with Pandas Pt. 2
  * Handling duplicate entries during merging
  * Grouping and aggregating data
  * Pivoting data
- * Rehape data using resample and melt
+ * Reshape data using resample and melt
 Module 6: Sourcing Data for AI Projects
  * Licensing information
  * Extract data from HTML tables
